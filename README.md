@@ -28,10 +28,8 @@ Dissecting the plot:
 
 - Assumption: StockTwits sentiment data roughly represents the views of retail traders
 - Assumption: Analyst recommendations reflect institutional thinking and move more slowly
-
 - Takeaway: Social sentiment might offer early clues before formal analyst changes — but it’s noisy and sometimes misleading
 - Takeaway: **The best use of sentiment data is as a complementary tool, not a standalone strategy**
-
 - Limitation: Results depend on the specific time periods and tickers analyzed; a larger dataset along with sentiment ranges would help confirm findings
 
 ## Known Issues
